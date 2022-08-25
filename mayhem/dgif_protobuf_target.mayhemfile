@@ -1,0 +1,4 @@
+project: PROJECT
+target: dgif_protobuf_target
+cmds:
+- cmd: /out/dgif_protobuf_target
